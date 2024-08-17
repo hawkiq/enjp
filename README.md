@@ -1,4 +1,4 @@
-<iframe src="https://jumpshare.com/embed/K6izuOWHzcAzluYS9rvZ" frameborder="0" width="100" height="100" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+![Omygitto](https://i.makeagif.com/media/8-17-2024/dDjzav.gif)
 
 # Enjp
 
