@@ -1,0 +1,31 @@
+{
+    "name": "hawkiq/enjp",
+    "description": "Laravel Package to Convert English Words to Romanji written in English",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hawkiq\\Enjp\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "hawkiq",
+            "email": "info@osama.app"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hawkiq\\Enjp\\EnjpServiceProvider"
+            ]
+        }
+    }
+}
